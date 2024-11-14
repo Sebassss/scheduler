@@ -47,8 +47,6 @@ The dashboard should allow an admin to view job logs, see the retry count, and c
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
 
 
 ### PHP Script to Execute Classes and Methods in Background:
